@@ -22,3 +22,6 @@ class MembersOnlyArticlesController < ApplicationController
   end
 
 end
+
+def delete
+end
